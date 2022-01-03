@@ -19,6 +19,10 @@ body{
             justify-content: space-between;
         }
 
+        div{
+            display: flex;
+        }
+
         nav{
             display: flex;
             gap: 60px;
