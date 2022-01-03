@@ -58,6 +58,11 @@ body{
             background-repeat: no-repeat;
             border-radius: 43px;
 
+            div{
+                display: flex;
+                flex-direction: column;
+            }
+
             h1{
                 width: 540px;
                 height: 146px;
