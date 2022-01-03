@@ -10,10 +10,13 @@ body{
 
     .section-1{
         width: 100%;
+        padding: 44px 120px;
 
         header{
             width: 100%;
-            
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
         }
     }
 }
