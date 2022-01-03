@@ -75,6 +75,8 @@ body .section-1 main {
 }
 
 body .section-1 main h1 {
+  width: 490px;
+  height: 146px;
   font-style: normal;
   font-weight: 600;
   font-size: 56px;
