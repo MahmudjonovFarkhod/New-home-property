@@ -32,6 +32,7 @@ body .section-1 div {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
+  gap: 60px;
 }
 
 body .section-1 nav {
