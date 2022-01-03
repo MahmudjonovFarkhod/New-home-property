@@ -73,4 +73,12 @@ body .section-1 main {
   background-repeat: no-repeat;
   border-radius: 43px;
 }
+
+body .section-1 main h1 {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 56px;
+  line-height: 73px;
+  color: #110229;
+}
 /*# sourceMappingURL=style.css.map */
